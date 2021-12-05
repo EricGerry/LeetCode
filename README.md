@@ -1,5 +1,9 @@
 # LeetCode
 
+algorithms is for LeetCode
+
+new branch is following_push for following to practice algorithm
+
 **LeetCode Problems' Solutions**
 
 (Notes: "🔒" means you need to buy a book from Leetcode)
