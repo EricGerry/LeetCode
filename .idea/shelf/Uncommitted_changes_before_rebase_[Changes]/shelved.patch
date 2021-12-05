@@ -1,0 +1,17 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># LeetCode\r\n\r\n**LeetCode Problems' Solutions**\r\n\r\n(Notes: \"\uD83D\uDD12\" means you need to buy a book from Leetcode)\r\n\r\n|#|Title|Solution|Difficulty|\r\n|:-:|:-:|:-:|:-:|\r\n1|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|[Java](https://github.com/EricGerry/LeetCode/blob/main/algorithms/src/TwoSum.java)|Easy\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 1a978a83d153a5c9b2412cfc47fe2ea7614529b2)
++++ b/README.md	(date 1638714538443)
+@@ -1,5 +1,6 @@
+ # LeetCode
+ 
++
+ **LeetCode Problems' Solutions**
+ 
+ (Notes: "🔒" means you need to buy a book from Leetcode)
